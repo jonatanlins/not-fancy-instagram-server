@@ -3,7 +3,6 @@ package com.ServerSpring.Instagrao.controller;
 
 import com.ServerSpring.Instagrao.models.Instagrao;
 import com.ServerSpring.Instagrao.repository.InstagraoRepository;
-import org.hibernate.tool.schema.internal.exec.ScriptTargetOutputToFile;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
